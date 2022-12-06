@@ -1,0 +1,10 @@
+true
+false as_4'
+cont
+_4x
+nots
+not and
+or
+->
+<<
+? : ; () = !=
